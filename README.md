@@ -33,6 +33,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Abyss-Void/Abyss-Void/output/snake.svg" alt="Snake animation" />
 
 ###
