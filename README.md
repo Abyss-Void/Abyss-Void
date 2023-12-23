@@ -13,6 +13,9 @@
 
   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:satyamdeo7@gmail.com)
 
+  [![itch.io](https://img.shields.io/badge/itch.io-portfolio-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=white)](https://satyam-deo.itch.io/)
+
+
 
 ###
 
