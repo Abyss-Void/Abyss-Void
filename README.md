@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Abyss-Void/count.svg?"  />
-</div>
-
-###
