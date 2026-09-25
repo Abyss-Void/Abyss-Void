@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A game developer fueled by an unyielding passion for exploring the intricacies of game development and an insatiable hunger for learning.</p>
+<p align="center">Aspiring Game & Graphics Programmer building systems in Unreal Engine (C++) and custom graphics pipelines with Vulkan, focused on Data-Oriented Design and performance.</p>
 
 ###
 
